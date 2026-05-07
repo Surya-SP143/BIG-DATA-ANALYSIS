@@ -1,10 +1,10 @@
 # BIG-DATA-ANALYSIS
-# COMPANY : CODTECH IT SOLUTIONS PVT.LTD
-# NAME : SURYA DAS MAHANTA
-# INTERN ID : CTIS8871
-# DOMAIN : DATA ANALYTICS
-# DURATION : 4 WEEKS 
-# MENTOR : NEELA SANTHOSH KUMAR
+COMPANY : CODTECH IT SOLUTIONS PVT.LTD
+NAME : SURYA DAS MAHANTA
+INTERN ID : CTIS8871
+DOMAIN : DATA ANALYTICS
+DURATION : 4 WEEKS 
+MENTOR : NEELA SANTHOSH KUMAR
 
 ## Task 1: Amazon Product Data Analysis
 ### Objective
@@ -30,3 +30,5 @@ The goal of this task was to perform comprehensive Data Cleaning and Exploratory
 1. Upload the provided `.ipynb` file to your Databricks Workspace.
 2. Connect to a **Serverless** or **All-Purpose** cluster.
 3. Update the `file_path` variable to point to your data source in Unity Catalog.
+ ### OUTPUT
+ <img width="1844" height="885" alt="Image" src="https://github.com/user-attachments/assets/dfefbe31-5a88-4fd1-ab21-c02127c75bb7" />
